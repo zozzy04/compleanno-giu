@@ -1,0 +1,23 @@
+FOTO DELLO CHALET — Såndgøld Alpine Glamping
+=============================================
+
+1. Apri la gallery su Booking:
+   https://www.booking.com/hotel/it/sandgold-alpine-glamping.it.html?activeTab=photosGallery
+
+2. Salva 2-3 foto che ti piacciono (tasto destro > Salva immagine).
+
+3. Mettile in questa cartella (assets/) con ESATTAMENTE questi nomi:
+       chalet-1.jpg
+       chalet-2.jpg
+       chalet-3.jpg
+
+   Vanno bene anche .jpg, .jpeg, .png o .webp: se cambi estensione,
+   aggiorna l'elenco "foto" in index.html (cerca "CONFIG.viaggio").
+
+4. Ricarica la pagina: il carosello comparirà da solo.
+
+Note:
+- Puoi mettere quante foto vuoi: aggiungi le righe nell'array "foto".
+- In alternativa ai file locali puoi incollare URL di immagini online.
+- Finché non ci sono foto valide, il carosello resta nascosto e si vede
+  solo la mappa: nessun riquadro rotto.
